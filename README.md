@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeraldGuo7
 - 👀 I’m interested in the 'Girl'.
-- 🌱 I’m currently learning simulator.
+- 🌱 I’m currently learning automotive simulator.
 - 💞️ I’m looking to collaborate on autonomous system simulation.
 - 📫 How to reach me gguode@163.com.
 
